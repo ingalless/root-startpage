@@ -43,6 +43,12 @@ const CARDS = [
     link: "https://mail.google.com/",
     color: "#de5246",
   },
+  {
+    name: "localhost",
+    icon: "ri-global-fill",
+    link: "http://localhost:8080",
+    color: "#0db7ed",
+  },
 ];
 
 /* -------------------------------------------------------- */
