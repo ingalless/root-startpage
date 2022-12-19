@@ -26,6 +26,12 @@ const CARDS = [
     color: "#5865F2",
   },
   {
+    name: "Obsidian",
+    icon: "ri-booklet-fill",
+    link: "obsidian://open?vault=personal-notes",
+    color: "#8b6cef",
+  },
+  {
     name: "Github",
     icon: "ri-github-fill",
     link: "https://github.com/",
